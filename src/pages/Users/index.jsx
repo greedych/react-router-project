@@ -15,7 +15,6 @@ function Users() {
             <li>
               <Link to={`/userprofile/${user.id}`}>
                 <h1>{user.name}</h1>
-                <h2>{user.bio}</h2>
               </Link>
             </li>
           );
