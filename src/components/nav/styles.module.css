@@ -1,0 +1,11 @@
+.navContainer {
+  background-color: rgb(44, 40, 40);
+  padding: 20px 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.navLink {
+  color: aliceblue;
+  text-decoration: none;
+}
